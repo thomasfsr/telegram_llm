@@ -12,5 +12,12 @@ CREATE TABLE EXERCISE (
     obliques VARCHAR(100),
     upper_trap VARCHAR(100),
     lower_trap VARCHAR(100),
-    
-)
+    quads  VARCHAR(100),
+    hamstrings  VARCHAR(100),
+    calves  VARCHAR(100),
+    upper_glutes  VARCHAR(100),
+    middle_glutes  VARCHAR(100),
+    lower_glutes  VARCHAR(100),
+    biceps  VARCHAR(100),
+    triceps  VARCHAR(100)
+    )
